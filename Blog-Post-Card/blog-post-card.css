@@ -1,0 +1,46 @@
+/* this is the css to the blog post card project. */
+body {
+  background-color: grey;
+}
+/* this is the styling for the blog post card itself. */
+.blog-post-card {
+  background-color: white;
+  border-radius: 10px;
+  width: 80%;
+  text-align: center;
+  max-width: 500px;
+  margin: 2% auto 0% auto;
+}
+.post-content {
+  padding: 1%;
+}
+.post-title, .post-excerpt {
+  margin: 2%;
+  color: brown;
+}
+/* this is the read more button. */
+.read-more {
+  position: relative;
+  display: inline-block;
+  color: black;
+  margin: 1% auto 1% auto;
+  padding: 2%;
+  border-radius: 45px;
+  border: 3px solid black;
+  background-color: peru;
+  text-align: center;
+}
+.read-more:hover {
+  Background-color: brown;
+  color: silver;
+}
+.read-more:link {
+  text-decoration: none;
+}
+.post-img {
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 100%;
+  max-width: 500px;
+  background: center;
+}
