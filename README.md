@@ -2,4 +2,5 @@
 These are my projects that incorporate CSS to HTML5
 I am separating them into folders so feel free to check out each individual project.
 
-Also, I will be creating my own wesite and placing the projects there as well for a visual look. Coming Soon!
+Here is a temporary website made entirely out of HTML5 and CSS to showcase some of the projects in this repository. Will be updating the website structure and functionality as I go along:
+https://anthonymiranda.w3spaces.com
